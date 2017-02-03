@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dividerline" >
+        <attr name="headerEnable" format="boolean"></attr>
+        <attr name="footerEnable" format="boolean"></attr>
+        <attr name="dividerLineColor" format="color"></attr>
+        <attr name="paddingHeaderStart" format="dimension"></attr>
+        <attr name="paddingHeaderEnd" format="dimension"></attr>
+        <attr name="paddingFooterStart" format="dimension"></attr>
+        <attr name="paddingFooterEnd" format="dimension"></attr>
+<attr name="dividerLineWidth" format="dimension"></attr>
+    </declare-styleable>
+</resources>
